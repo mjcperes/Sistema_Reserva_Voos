@@ -1,6 +1,6 @@
-THIS IS MY FINAL PROJECT OF THE COMPUTER PROGRAMMER COURSE AT IEFP.
-I CREATED A RESERVATION SYSTEM AT A FICTIONED AIRLINE USING C# AND WINDOWS FORMS.
-WE CAN CREATE NEW ROUTES AND NEW DESTINATIONS AND SCHEDULE FLIGHTS.
-THE PASSENGERS CAN MAKE RESERVATIONS ON THE SCHEDULED FLIGHTS.
-THE APPLICATION ALSO PRODUCES REPORTS OF SALES WITH SEVERAL FILTERS.
-THE DATABASE TABLES (MYSQL) ARE ALSO IN THE PROJECT AS WELL AS SCREENSHOTS OF THE APPLICATION.
+This is my final project of the Computer Programmer course at IEFP (Portugal).
+I created a reservation system at a fictionalized airline using C# and Windows Forms.
+It is possible to create new routes and new destinations and schedule flights.
+The passengers can make reservations on the scheduled flights.
+The application also produces reports of sales with several filters.
+The database tables (MySQL) are also in the project as well as screenshots of the application.
